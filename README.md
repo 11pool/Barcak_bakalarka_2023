@@ -45,7 +45,8 @@ názvy modelových situácií v kóde:<br>
 
 Špecifikácie navyše:
 + yesnoise -> šum nebol zahodený
-+ manual -> štatistika pre Ľaktový diagram a Siluetový graf
++ manual -> štatistika pre Ľaktový diagram a Siluetový graf<br>
+
 ###########
 
 Kontakt: jaadam.barcak@gmail.com
